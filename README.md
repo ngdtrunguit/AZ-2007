@@ -52,8 +52,7 @@ A special thanks to the following awesome Hubbers who have contributed in many d
 [blackgirlbytes](https://github.com/blackgirlbytes), [pierluigi](https://github.com/pierluigi), [yuichielectric](https://github.com/yuichielectric), [dchomh](https://github.com/dchomh), [nolecram](https://github.com/nolecram), [rsymo](https://github.com/rsymo), [damovisa](https://github.com/damovisa) and anyone else I've inadvertently missed.
 
 Enjoy your workshop!
-[anthonyborton](https://github.com/anthonyborton)
 
-_v1.0 Released May, 2023
-_v1.1 Released October, 2024
-_v1.2 Released February, 2025
+v1.0 Released May, 2023
+v1.1 Released October, 2024
+v1.2 Released February, 2025
